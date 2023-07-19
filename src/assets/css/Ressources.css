@@ -1,0 +1,30 @@
+.ressources{
+    background-color: #345457;
+    color: #E4BC7F ;
+    
+}
+.titreressources{
+    font-size: 36px;
+    margin: 30px 0;
+    padding: 10px;
+}
+.titreressource{
+    font-size: 24px;
+    padding: 20px;
+    
+}
+.liressource{
+    width: 80%;
+    padding: 0;
+    margin: auto;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+.liressource li{
+    list-style-type: none;
+}
+.liressource a {
+    text-decoration: none; /* Enlève le soulignage du lien */
+    color: #E4BC7F ;
+}

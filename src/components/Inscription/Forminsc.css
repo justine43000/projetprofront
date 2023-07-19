@@ -1,0 +1,30 @@
+.insc{
+    display: flex;
+    flex-direction: column;
+}
+.btni{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.btninsc{  
+    background-color: #627E80;
+    color: #E4BC7F;
+    font-family: 'Alegreya Sans', sans-serif;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    font-size: 26px;
+
+}
+.labelinsc{
+    color: #C5FCFF;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.inputinsc{
+    background-color: #A3865B;
+    border-radius: 10px;
+    border: 1px solid #C5FCFF;
+    height: 40px;
+}

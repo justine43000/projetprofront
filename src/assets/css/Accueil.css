@@ -1,0 +1,44 @@
+.body{
+    background-color: white;
+}
+h2{
+    color: #E4BC7F ;
+    font-family: 'Cinzel Decorative';
+    text-align: center;
+    margin-top: 10px;
+}
+.parapres{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #E4BC7F ;
+    font-family: 'Alegreya Sans', sans-serif;
+    margin: auto;
+    padding: 40px
+}
+ .imgpres{
+    width:300px;
+}
+
+.imgpres img{
+    width: 100%;
+}
+
+.para{
+    width: 60%;
+}
+
+
+
+.projet{
+    padding: 40px 0;
+    margin-bottom: 20px;
+}
+
+.projet p{
+    color: #E4BC7F ;
+    font-family: 'Alegreya Sans', sans-serif;
+    max-width: 800px;
+    margin: auto;
+} 
+

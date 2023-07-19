@@ -1,0 +1,8 @@
+.ajout{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: #345457;
+    margin: 0;
+}

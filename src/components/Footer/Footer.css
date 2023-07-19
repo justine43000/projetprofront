@@ -1,0 +1,48 @@
+.footer{
+    background-color: #345457;
+    display: flex;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    color: #E4BC7F ;
+    list-style-type: none;
+    max-width: 60%;
+}
+ .btnressource{
+    background-color: #627E80;
+    border-radius: 25px;
+    color: #E4BC7F;
+    font-family: 'Alegreya Sans', sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.btncontact{
+    background-color: #E4BC7F;
+    border-radius: 25px;
+    color: #C5FCFF;
+    font-family: 'Alegreya Sans', sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+} 
+
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 300px;
+}
+.navfooter{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+} 
+

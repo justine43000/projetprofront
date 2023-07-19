@@ -1,0 +1,16 @@
+.ImageCarousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; /* Définit la direction des éléments sur une ligne */
+  }
+  
+  .ImageCarousel__controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ImageCarousel__controls button {
+    margin: 0 5px;
+  }
+  

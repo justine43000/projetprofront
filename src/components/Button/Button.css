@@ -1,0 +1,11 @@
+.Button {
+    background-color: #345457;
+    border-radius: 25px;
+    color: #E4BC7F;
+    font-family: 'Cinzel Decorative';
+    transition: transform 0.2s ease-in-out;
+}
+  
+.Button:hover {
+    transform: scale(1.1);
+}

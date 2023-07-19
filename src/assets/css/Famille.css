@@ -1,0 +1,64 @@
+.famille {
+    background-color: #345457;
+    width: 100%;
+    height: 100vh;
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    position: relative; /* Ajout de la propriété de position */
+}
+
+.famille h1 {
+    position: fixed; /* Position fixe */
+    top: 50%; /* Positionnement vertical au centre */
+    left: 10%; /* Positionnement à gauche */
+    transform: translateY(-50%); /* Décalage vertical de -50% de la hauteur */
+}
+
+.famille h2{
+    margin: 0;
+    padding: 25px;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    width: 100%;
+}
+
+.enfant {
+    display: flex;
+    flex-direction: column;
+    background-color: #A3865B;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 40px;
+    border-radius: 25px;
+}
+.enfant p {
+    margin: 0;
+    color: #C5FCFF;
+}
+
+.posenfant {
+ display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 600px;
+    justify-content: space-between;
+    align-self: flex-end; /* Alignement à droite */
+    margin-top: auto; /* Déplacement en bas */
+    margin-bottom: auto;
+}
+
+.btnfam{
+    display: flex;
+    justify-content: center;
+}
+.btnfamille {
+    background-color: #627E80;
+    color: #E4BC7F;
+    font-family: 'Alegreya Sans', sans-serif;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    font-size: 24px;
+}

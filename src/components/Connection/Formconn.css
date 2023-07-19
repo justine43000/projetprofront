@@ -1,0 +1,45 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+.conn{
+    display: flex;
+    flex-direction: column;
+}
+
+.label{
+    color: #C5FCFF;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.input{
+    background-color: #A3865B;
+    border-radius: 10px;
+    border: 1px solid #C5FCFF;
+    height: 40px;
+}
+.btnconn{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    margin-top: 100px;
+}
+
+.btncon{
+    background-color: #627E80;
+    color: #E4BC7F;
+    font-family: 'Alegreya Sans', sans-serif;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    font-size: 26px;
+}
+.mdpcon{
+    margin-top: 30px;
+}
+.mdpcon a{
+    color:#A3865B;
+    text-decoration: none;
+    font-size: 22px;
+}
